@@ -44,6 +44,10 @@ ul {
  box-shadow: inset 0 0 25px blueviolet; 
 }
 
+.bubble:hover{
+  box-shadow: inset 0 0 50px blueviolet;
+}
+
 .bubble span{
   position: absolute;
   border-radius: 50%;
