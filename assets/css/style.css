@@ -18,18 +18,22 @@ ul {
     margin: 0;
     padding: 0;
     overflow: hidden;
-  }
+}
   
-  .link {
+.link {
     float: right;
-  }
+}
   
-  li a {
+li a {
     display: block;
     padding: 8px;
     text-decoration: none;
     color: blueviolet;
-  }
+}
+
+li a:hover{
+  color: rgb(165, 83, 241);
+}
 
 #logo{
     float: left;
